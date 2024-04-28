@@ -18,13 +18,16 @@ color:white;
  
    
 }
+div h1{
+    margin-right: 250px;
+}
 button{
     background-color: blue;
     padding: 10px 30px;
     border: none;
     color: white;
     border-radius: 5px;
-    margin-left: 100px;
+    margin-left: 170px;
 
 }
 b{
@@ -35,5 +38,5 @@ b{
 }
 p{
 
-    margin-left: 70px;
+    margin-left: 150px;
 }
